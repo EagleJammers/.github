@@ -4,7 +4,9 @@
 We're a group of students attending Eastern Washington University who meet up to do game jams
 
 ### How to join
-There are no formal requirements to join. Message Ray Tanner#2916 on Discord if you want an invitation.
+You must be a current or past student at EWU to join. Other than that, there are no requirements to join.
+
+Message Ray Tanner#2916 on Discord if you want an invitation.
 
 ### What tools we use
 So far we have used the Unity engine and C# for development because it tends to be most familiar for members.

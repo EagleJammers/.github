@@ -18,11 +18,13 @@ We have been using 2021LTS for development, it is advised you use that to launch
 Unity will generate it's own engine files and the game should launch, barring any major errors.
 
 ### Planned Jams
-Trijam 169
-
-GameDev.Tv Jam 2022
+Weekly Trijam 
 
 ### Jam History
+Trijam 171 : No Submission
+
+Trijam 169 : https://ohhm.itch.io/manic-mitosis
+
 Trijam 168 : No Submission
 
 Trijam 167 : No Submission
